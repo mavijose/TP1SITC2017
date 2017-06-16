@@ -1,0 +1,88 @@
+
+.wrapper{
+background-color:#000000;
+height: 850px;
+background-size:cover;
+}
+
+.btn-green {
+    font-weight: 100;
+    border: 1px solid rgba(255,255,255,0.3);
+    text-transform: capitalize;
+    width: 223px;
+color: #000000;
+font-size: -343px;
+margin: 5px;
+position: relative;
+top: 181px;
+  }
+img {
+    border: 0px;
+    position: relative;
+    top: 210px;
+
+}
+h1, .h1 {
+    font-size: 36px;
+    position: relative;
+    top: 155px;
+}
+p {
+    margin: 0 0 10px;
+    position: relative;
+    top: 161px;
+}
+#col a{
+    position: relative;
+    top: 180px;
+}
+#card a{
+    position: relative;
+    top: 15px;
+    font-size: 15px;
+}
+.form {
+ color:grey; 
+      width: 350px;
+      height: 350px;
+       background: rgba(255,255,255,255);
+      position: relative;
+     top: 376px;
+}
+
+.btn-grey{
+     border: 1px solid rgba(255,255,255,0.3);
+    text-transform: capitalize;
+font-size: -343px;
+margin: 5px;
+position: relative;
+top: 181px;
+}
+.img {
+    border: 0px;
+    position: relative;
+    top: 126px;
+    right: -236px;
+}
+
+  form{
+    text-align: center;
+    background-color: rgb(255,255,255,1);
+  }
+  .btn-primary {
+    color: #fff;
+    background-color: #14ef10;
+    border-color: #14ef10;
+    size: -4;
+    width: 102px;
+}
+span {
+    text-align: center;
+    font-size: 40px;
+    position: relative;
+    top: -32px;
+    right: -237px;
+}
+.form-control{
+    width: 70px;
+}
